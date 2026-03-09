@@ -24,6 +24,6 @@ The primary users are healthcare leaders and domain experts — think hospital o
 
 In short, it's a tool built to answer one core question: *how well is the healthcare system managing its patient backlog, and where are the pressure points?*
 
-[Click here to interact with this Dashboard ](https://app.powerbi.com/view?r=eyJrIjoiNDA4ZjVlMWQtN2RmMi00ODM1LWI2NTMtNjgzOTMyNGE2MWYwIiwidCI6IjkyZGQ2NGUzLWI3NDQtNDhkMC1iNjEyLTQ3ZWQ5MzE5MDk5NiJ9)
+[Click here to interact with this Dashboard ](https://app.powerbi.com/view?r=eyJrIjoiMjM2NTE2YWYtN2UzYy00NzE4LWI1MzctY2I0OTdlZjhhOTI3IiwidCI6IjkyZGQ2NGUzLWI3NDQtNDhkMC1iNjEyLTQ3ZWQ5MzE5MDk5NiJ9)
 
 ![This is what the dashboard looks like](https://github.com/Kushagra2002/Healthcare-Dashboard-Power-Bi/blob/main/Screenshot%202026-03-09%20221220.png)
